@@ -1,2 +1,2 @@
 # admin-go
-manager resource
+v1: manager resource
