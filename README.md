@@ -1,0 +1,2 @@
+# admin-go
+manager resource
